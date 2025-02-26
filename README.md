@@ -27,4 +27,4 @@ Made by [iaMJ](https://github.com/idMJA)
 The original Wordmark was created by [nwndev](https://github.com/nwndev/wordmark)
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
